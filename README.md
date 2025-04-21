@@ -19,4 +19,4 @@ javac Calculator.java
 java Calculator
 
 
-![image](https://github.com/user-attachments/assets/ded56d4b-492c-4d58-8310-bc556c40c7e5)
+![Screenshot 2025-04-21 211331](https://github.com/user-attachments/assets/834d8710-a8df-4c5c-8369-153775eda583)
